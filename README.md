@@ -4,3 +4,5 @@
 **Файлы для 3 лабы:** lab3.ts, lab3.js <br />
 **Файлы для 4 лабы:** lab4.ts, lab4.js, license.ts, license.js <br />
 **Файлы для 5 лабы:** lab5.ts, lab5.js <br />
+**Файлы для 6 лабы:** decor.ts, lab6.ts, transport.ts, decor.js, lab6.js, transport.js <br />
+
